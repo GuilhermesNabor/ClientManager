@@ -1,0 +1,30 @@
+body{
+    background: rgb(97,88,255);
+    background: linear-gradient(90deg, rgba(97,88,255,1) 0%, rgba(255,136,0,1) 100%);
+}
+form{
+    width: 60%;
+    margin: 30px auto;
+    text-align: center;
+}
+
+input{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+img{
+    width: 200px;
+}
+table{
+    width: 60%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 8px;
+    text-align: center;
+}
+.btnEditar{
+    margin-top: 10px;
+}
